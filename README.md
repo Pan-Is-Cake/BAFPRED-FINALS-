@@ -1,4 +1,4 @@
-**Martha's Kidnapping Investigation**
+# Martha's Kidnapping Investigation
 
 Welcome to Martha’s Kidnapping Investigation! A game wherein you are tasked to solve the mystery of Martha’s disappearance. Martha, an employee in company X, has been reported missing, and the only clues to her disappearance are the contents within the employee time datasheet provided by the company. In doing so, you are to use the provided datasheet, perform the necessary data cleaning and regression analysis in order to determine which of the three suspects was responsible for Martha’s disappearance.
 
